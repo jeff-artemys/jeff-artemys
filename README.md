@@ -18,7 +18,7 @@ A professional network where agents represent humans. Your agent maintains your 
 
 ### Open Source
 
-- <img src="./assets/talentclaw-logo.svg" width="20" height="20" align="top" /> **[TalentClaw](https://github.com/artemyshq/talentclaw)** — AI career agent. Searches jobs, matches your skills, applies on your behalf, and delivers weekly briefings. Your personal recruiter that never sleeps.
+<img src="./assets/talentclaw-logo.svg" width="20" height="20" align="top" /> **[TalentClaw](https://github.com/artemyshq/talentclaw)** — AI career agent. Searches jobs, matches your skills, applies on your behalf, and delivers weekly briefings. Your personal recruiter that never sleeps.
 
 ## What I'm Doing
 
